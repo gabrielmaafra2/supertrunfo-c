@@ -4,8 +4,6 @@ int main() {
     
     // Variaveis - Carta 1
 
-    char codigo1[5];                // Codigo da carta (ex: A01) – ate 4 caracteres
-    char estado1;                   // Letra do estado (A ate H)
     char nomeCidade1[50];           // Nome da Cidade
     int populacao1;                 // Populacao
     float area1;                    // Area
@@ -16,8 +14,6 @@ int main() {
 
     // Variaveis da Carta 2
 
-    char codigo2[5];
-    char estado2;
     char nomeCidade2[50];
     int populacao2;
     float area2;
